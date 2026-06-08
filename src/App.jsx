@@ -1,11 +1,11 @@
 import Login from "./Auth/Login/Login";
 import Genius from "./Auth/Login/Genius";
-import Activity from "./pages/Activities/Activity";
-import Dashboard from "./pages/Dashboard/Dashboard";
-import Surveys from "./pages/Surveys/Surveys";
+import Activity from "./Pages/Activities/Activity";
+import Dashboard from "./Pages/Dashboard/Dashboard";
+import Surveys from "./Pages/Surveys/Surveys";
 import SubmitSurvey from "./pages/Surveys/SubmitSurvey";
-import Setting from "./pages/Settings/Setting";
-import Starfall from "./pages/Starfall/Starfall";
+import Setting from "./Pages/Settings/Setting";
+import Starfall from "./Pages/Starfall/Starfall";
 import { Routes, Route } from "react-router-dom";
 import Layout from "./Components/Layout/Layout";
 // import SubmitActivity from "./Pages/Activities/SubmitActivity/SubmitActivity";
