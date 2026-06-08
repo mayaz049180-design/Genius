@@ -1,5 +1,5 @@
 import videoimage from "./assets/videoimage.png";
-import geniuslogo from "./assets/geniuslogo.png";
+import geniuslogo from "./assets/geniusLogo.png";
 import { Link } from "react-router-dom";
 import { FaArrowRightLong } from "react-icons/fa6";
 const Genius = () => {
