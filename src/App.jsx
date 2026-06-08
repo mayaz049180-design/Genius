@@ -3,7 +3,7 @@ import Genius from "./Auth/Login/Genius";
 import Activity from "./Pages/Activities/Activity";
 import Dashboard from "./Pages/Dashboard/Dashboard";
 import Surveys from "./Pages/Surveys/Surveys";
-import SubmitSurvey from "./pages/Surveys/SubmitSurvey";
+import SubmitSurvey from "./Pages/Surveys/SubmitSurvey";
 import Setting from "./Pages/Settings/Setting";
 import Starfall from "./Pages/Starfall/Starfall";
 import { Routes, Route } from "react-router-dom";
